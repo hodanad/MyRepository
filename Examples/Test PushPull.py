@@ -1,3 +1,4 @@
 # Databricks notebook source
 # MAGIC %sql
-# MAGIC select "Hi"
+# MAGIC select "Hi", "let see how the pull works from dev to main"
+# MAGIC
